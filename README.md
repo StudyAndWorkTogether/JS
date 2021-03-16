@@ -12,4 +12,4 @@ This a cool language
 
 ## Data Type
 
-## Vairable
+## Variable
